@@ -1,6 +1,6 @@
 from GarbageClassifier import GarbageClassifier
 from CameraControl import Cam
-from Controls import Controls
+# from Controls import Controls
 
 
 test_image_dir = r"test images/recyclable_003899_photo.jpg"

@@ -3,3 +3,6 @@
 *.png
 *.jpg
 tmp
+venv
+.idea
+__pycache__
